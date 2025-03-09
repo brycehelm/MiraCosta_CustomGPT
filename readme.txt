@@ -39,7 +39,7 @@ To make authenticated requests, you'll need to input your API key into your **Cu
 2. **Go to "Actions" and Enable API Calls**
 
    - Under the **Configure** tab, scroll to **Actions**.
-   - Click **Enable** API calls and paste the **OpenAPI schema** (provided separately).
+   - Click **Enable** API calls and paste the **OpenAPI schema** (provided below).
 
 3. **Add Your API Key in Authentication**
 
