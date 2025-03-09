@@ -46,6 +46,8 @@ To make authenticated requests, you'll need to input your API key into your **Cu
    - In the Actions section, scroll to **Authentication**.
    - Choose **API Key** as the authentication method.
    - Paste your **Canvas API Key**.
+   - Set Auth Type to "Bearer"
+   - Save
 
 ---
 
